@@ -1,4 +1,4 @@
-# 🐛 Keldera Barrel Tracker — Issue Tracker
+# 🐛 Keldera Barrel Tracker - Issue Tracker
 
 **Report bugs and request features for [Keldera Barrel Tracker](https://app.keldera.com)**
 
@@ -15,11 +15,11 @@ Keldera Barrel Tracker is a web application for tracking and managing barrels. V
 1. Click the **[Issues](../../issues)** tab above
 2. Click **New Issue**
 3. Choose the appropriate template:
-   - 🐛 **Bug Report** — Something isn't working as expected
-   - 💡 **Feature Request** — Suggest a new feature or improvement
+   - 🐛 **Bug Report** - Something isn't working as expected
+   - 💡 **Feature Request** - Suggest a new feature or improvement
 4. Fill in as much detail as possible and submit
 
-> Anyone can submit an issue — no account required beyond a free GitHub account.
+> Anyone can submit an issue - no account required beyond a free GitHub account.
 
 ---
 
